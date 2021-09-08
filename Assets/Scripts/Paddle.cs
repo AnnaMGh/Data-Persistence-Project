@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Paddle : MonoBehaviour
 {
-    public float Speed = 2.0f;
-    public float MaxMovement = 2.0f;
-    
+    public float Speed = 1.0f;
+    private float MaxMovement = 2.6f;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -22,9 +22,13 @@ public class Paddle : MonoBehaviour
         pos.x += input * Speed * Time.deltaTime;
 
         if (pos.x > MaxMovement)
+        {
             pos.x = MaxMovement;
+        }
         else if (pos.x < -MaxMovement)
+        {
             pos.x = -MaxMovement;
+        }
 
         transform.position = pos;
     }

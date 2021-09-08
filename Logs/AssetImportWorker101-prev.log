@@ -1,0 +1,27 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1165; Version 2009; 64bit' Language: 'ro' Physical Memory: 8103 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker101
+-projectPath
+D:/Work/Unity/Projects/Junior Programmer Pathway/JuniorPath/Projects/Date Persistance Project/Data-Persistence-Project
+-logFile
+Logs/AssetImportWorker101.log
+-srvPort
+56998
+Successfully changed project path to: D:/Work/Unity/Projects/Junior Programmer Pathway/JuniorPath/Projects/Date Persistance Project/Data-Persistence-Project
+D:/Work/Unity/Projects/Junior Programmer Pathway/JuniorPath/Projects/Date Persistance Project/Data-Persistence-Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 5614.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Work/Unity/Projects/Junior Programmer Pathway/JuniorPath/Projects/Date Persistance Project/Data-Persistence-Project/Assets
+GfxDevice: creating device client; threaded=0
